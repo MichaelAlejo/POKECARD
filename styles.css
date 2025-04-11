@@ -9,7 +9,6 @@ body{
     padding: 15px;
     box-sizing: border-box;
     text-align: center;
-    align-content: center;
 }
 .pokemon-image{
     max-width: 500px;
