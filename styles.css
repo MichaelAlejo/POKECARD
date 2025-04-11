@@ -9,6 +9,8 @@ body{
     padding: 15px;
     box-sizing: border-box;
     text-align: center;
+    max-width: 550px;
+    border-color: black;
 }
 .pokemon-image{
     max-width: 500px;
@@ -22,13 +24,21 @@ body{
 }
 .pokemon-name {
     font: oblique bold 120% cursive;
+    font-size: 25px;
     color: darkblue;
-
+    padding: 5px;
+}
+.plant {
+    color: green;
+}
+.poison{
+    color: purple;
 }
 .pokemon-type{
+    font-size: 15px;
     padding: 2px;
 }
 .pokemon-description{
-    
+    font-size: small;
     color: gray;
 }
